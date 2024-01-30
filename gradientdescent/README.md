@@ -8,7 +8,8 @@ optimization process.
 # Dependencies:
 NumPy: For numerical computations and array operations.
 Matplotlib: For data visualization.
-Gradient Descent:
+
+# Gradient Descent:
 The project provides a GradientDescent class that implements the gradient 
 descent optimization algorithm. It includes functionality to set learning rate,
 maximum iterations, epsilon for convergence, and recording history for 
