@@ -1,4 +1,4 @@
-# Introduction:
+# Convolution2D:
 This project demonstrates convolutional image filtering using Python, OpenCV, and NumPy. 
 The program aims to perform convolution operations on images using custom kernels to achieve 
 various image processing tasks like edge detection, blurring, sharpening, etc.

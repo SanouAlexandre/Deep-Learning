@@ -1,4 +1,4 @@
-# Introduction:
+# Convolutional Neural Networks (CNNs):
 This project utilizes Convolutional Neural Networks (CNNs) to classify handwritten 
 digits from the MNIST dataset. It employs the Keras library, built on top of 
 TensorFlow, for model creation and training.

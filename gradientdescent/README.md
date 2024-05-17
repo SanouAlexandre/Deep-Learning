@@ -1,4 +1,4 @@
-# Introduction:
+# Gradient Descent:
 This project demonstrates the concepts of gradient descent optimization 
 and the behavior of a sigmoid classifier using Python and visualization 
 techniques. The code implements gradient descent for optimizing model 
