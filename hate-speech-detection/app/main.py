@@ -4,9 +4,6 @@ from pydantic import BaseModel
 from transformers import CamembertTokenizer, CamembertForSequenceClassification
 import torch
 
-from huggingface_hub import login
-login(token="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")
-
 # Initialize FastAPI
 app = FastAPI()
 
